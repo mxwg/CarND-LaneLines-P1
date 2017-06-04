@@ -1,16 +1,10 @@
 # **Finding Lane Lines on the Road** 
 
----
-
-**Finding Lane Lines on the Road**
-
 [//]: # (Image References)
 
 [pipeline]: ./results/solid_white_curve.png "My pipeline"
 
----
-
-### Reflection
+## Reflection
 
 ### 1. My pipeline
 
